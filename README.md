@@ -10,4 +10,3 @@ Prerequisites:
 
 sudo pip3 install pythonping or sudo pip install pythonping.
 
-Translated with www.DeepL.com/Translator (free version)
