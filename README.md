@@ -23,7 +23,7 @@ For linux use <code> sudo apt-get install python3.x </code> <br>
 3. Install pythonping <br>
 For Windows <code> py -3 -m pip install pythonping </code> <br>
 For Linux <code> pip3 install pythonping </code> <br>
-7. Now run the Wireguard_Reconnect.py - File
+4. Now run the Wireguard_Reconnect.py - File
 For Windows <code> py -3 Wireguard_Reconnect.py </code> <br>
 For Linux <code> python3 Wireguard_Reconnect.py </code> <br>
 
